@@ -1,0 +1,153 @@
+@media (max-width: 1024px) {
+    .page .header .menu {
+        padding: 0 10px;
+    }
+
+    .page .header .menu .buttons {
+        gap: 10px;
+    }
+
+    .page .header .menu .buttons .item {
+        font-size: 12px;
+        line-height: 13px;
+    }
+
+    .logo {
+        height: 20px;
+    }
+
+    .header-text {
+        height: 300px;
+    
+    }
+
+    .header-text__intro_small {
+        font-size: 32px;
+        line-height: 35px;
+    }
+
+    .header-text__intro_large {
+        padding: 0;
+        font-size: 70px;
+        line-height: 72px;
+    }
+
+    .header__button {
+        border: 2px solid;
+        height: 38px;
+        width: 200px;
+        font-size: 16px;
+        line-height: 18px;
+        margin-top: 40px;
+    }
+
+    .sections {
+        gap: 10px;
+        margin-top: 50px;
+        padding: 0 2%;
+    }
+
+    .item__divider {
+        height: 2px;
+    }
+
+    .item__text_figure {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .item__text_letter {
+        font-size: 12px;
+        line-height: 14px;
+        margin: 5px 5px;
+    }
+
+    .about {
+        margin: 30px;
+        gap: 10px;
+    }
+
+    .about__intro {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .about__header {
+        font-size: 25px;
+        line-height: 27px;
+        margin-top: 15px;
+    }
+
+    .about__text {
+        font-size: 12px;
+        line-height: 14px;
+        margin: 1px 2% 40px;
+    }
+
+    .about__overlay {
+        width: 98%;
+        height: 98%;
+    }
+
+    .about__gallery:hover .about__overlay {
+        opacity: 1;
+        top: -2%;
+        left: -2%;
+    }
+
+    .lorem {
+        height: 100px;
+        padding: 0 2%;
+    }
+
+    .lorem-item__text {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .lorem-item__number {
+        font-size: 32px;
+        line-height: 34px;
+    }
+
+    .services__intro {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .services__header {
+        font-size: 25px;
+        line-height: 27px;
+    }
+
+    .services-block__item {
+        gap: 10px;
+        margin-top: 40px;
+    }
+
+    .services-block__text_large {
+        font-size: 20px;
+        line-height: 22px;
+        height: 30px;
+    }
+
+    .services-block__text_small {
+        font-size: 16px;
+        line-height: 18px;
+        margin-top: 10px;
+    }
+
+    .services-block__icon {
+        height: 30px;
+    }
+
+    .services-block {
+        padding: 0 0;
+        gap: 15px;
+    }
+
+    .services {
+        margin: 48px 5px;
+        gap: 30px;
+    }
+}

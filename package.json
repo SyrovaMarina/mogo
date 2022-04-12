@@ -19,5 +19,8 @@
   "dependencies": {
     "normalize.css": "^8.0.1",
     "parcel": "^2.4.1"
+  },
+  "devDependencies": {
+    "sharp": "^0.29.3"
   }
 }
